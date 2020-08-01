@@ -6,9 +6,9 @@
       "question": "What is the first book of the Old Testament?",
       "correct_answer": "Genesis",
       "incorrect_answers": {
-        "Exodus",
-        "Leviticus",
-        "Numbers"
+        "first": "Exodus",
+        "second": "Leviticus",
+        "third": "Numbers"
       }
     },
     {
@@ -17,9 +17,9 @@
       "question": "In past times, what would a gentleman keep in his fob pocket?",
       "correct_answer": "Watch",
       "incorrect_answers": {
-        "Money",
-        "Keys",
-        "Notebook"
+        "first": "Money",
+        "second" : "Keys",
+        "third": "Notebook"
       }
     },
     
